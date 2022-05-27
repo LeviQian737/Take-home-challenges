@@ -1,5 +1,5 @@
 # Take-home-challenges
-My solutions to [Take Home Challenges](https://datamasked.com/).
+My solutions to [Take Home Challenges](https://datamasked.com/). Working on it!
 
 ### [Funnel Analysis](https://github.com/LeviQian737/Take-home-challenges/tree/main/Funnel_Analysis)
 ### [Identifying Fraudulent Activities](https://github.com/LeviQian737/Take-home-challenges/tree/main/Identifying_Fraudulent_Activities)
